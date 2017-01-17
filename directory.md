@@ -28,7 +28,7 @@
 * Léonard Gauriau léonard.gauriau@telecom-bretagne.eu
     repo : https://github.com/leoDisjonct
 
-* Guillaume Michonneau
+* Guillaume Michonneau guillaume.michonneau@telecom-bretagne.eu
     repo: https://github.com/Guigui17/
 
 * Hugo LUDMANN hugo.ludmann@telecom-bretagne.com
