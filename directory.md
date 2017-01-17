@@ -31,7 +31,7 @@
 * Guillaume Michonneau
     repo: https://github.com/Guigui17/
 
-* Hugo LUDMANN hugo.ludmann@telecom-bretagne.com
+* Hugo LUDMANN hugo.ludmann@telecom-bretagne.eu
     repo : https://github.com/Rhagngahr
 
 * Keyu Pu 262637887@qq.com
