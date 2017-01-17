@@ -18,3 +18,6 @@
 
 * Elvis PUCHE elvis23pm@gmail.com
     repo:https://github.com/elvis23pm
+    
+* Gautier COSNE cosne.gautier@gmail.com
+    repo:https://github.com/gcosne
