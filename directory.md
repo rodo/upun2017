@@ -7,6 +7,14 @@
 * Antoine GIRARD antoine.girard@sapk.fr
     repo : http://github.com/sapk
 
-
 * JB Valladeau jbvalladeau@gmail.com
     repo : http://github.com/ignamarte
+
+* Clément Trassoudaine clement.trassoudaine@imt-atlantique.net
+    repo: https://github.com/intv0id
+
+* Paul Dubot keeganpa76@hotmail.fr
+    repo: http://github.com/keeganpa
+
+* Elvis PUCHE elvis23pm@gmail.com
+    repo:https://github.com/elvis23pm
